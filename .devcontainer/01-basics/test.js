@@ -1,1 +1,1 @@
-console.log("Satjit Singh");
+console.log("Satjit");
